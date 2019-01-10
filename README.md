@@ -3,6 +3,7 @@
 
 셋팅방법
 
+```
 cd ~
 git clome https://github.com/YujinHa/vimset
 cd vimset
