@@ -1,0 +1,7 @@
+<git쓰다가 오류났을 때>
+일단 'git status'명령어 쳐보기!
+
+<github에 올리는 방법>
+1.git add (파일이름)
+2.git commit -m "(글내용)"
+3.git push origin master -> git메일, 비밀번호 치기
