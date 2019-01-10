@@ -9,3 +9,6 @@ git clome https://github.com/YujinHa/vimset
 cd vimset
 cp -f ./.vimrc ~
 ```
+
+*item1
+*item2
