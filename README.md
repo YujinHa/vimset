@@ -5,7 +5,7 @@
 
 ```
 cd ~
-git clome https://github.com/YujinHa/vimset
+git clone https://github.com/YujinHa/vimset
 cd vimset
 cp -f ./.vimrc ~
 ```
